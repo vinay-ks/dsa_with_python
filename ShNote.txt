@@ -1,0 +1,11 @@
+conda create -p venv_1 python==3.12
+
+conda activate venv_1/
+
+pip install ipykernel
+
+________
+
+Created requirements.txt
+
+
